@@ -1,4 +1,3 @@
-  
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -23,63 +22,6 @@ and open the template in the editor.
     font-size: 4vw;
 }  
 
-.headingh1 {
-    font-family: FrontageCondensed;
-    font-size: 300%;
-}  
-
-.headingh2 {
-    font-family: FrontageCondensed;
-    font-size: 300%;
-}
-
-@media screen and (max-width: 1000px) {
-    .headingh2 {
-        
-      font-size: 250%;
-       
-    }
-}
-
-@media screen and (max-width: 800px) {
-    .headingh2 {
-        
-      font-size: 120%;
-       
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .headingh2 {
-        
-      font-size: 120%;
-       
-    }
-}
-
-@media screen and (max-width: 400px) {
-    .headingh2 {
-        
-      font-size: 120%;
-       
-    }
-}
-
-@media screen and (max-width: 300px) {
-    .headingh2 {
-        
-      font-size: 120%;
-       
-    }
-}
-
-.P {
-     font-size: 100%;
-}
-
-.P1 {
-     font-size: 100%;
-}
 
 .main { 
     flex: 90%; 
@@ -87,67 +29,6 @@ and open the template in the editor.
     padding: 20px; 
     text-align: center;
 
-}
-
-@media screen and (max-width: 1000px) {
-    .P {
-        
-      font-size: 120%;
-       
-    }
-}
-
-@media screen and (max-width: 800px) {
-    .P {
-        
-      font-size: 120%;
-       
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .P {
-        
-      font-size: 200%;
-       
-    }
-}
-@media screen and (max-width: 400px) {
-    .P {
-        
-      font-size: 180%;
-       
-    }
-}
-
-@media screen and (max-width: 1000px) {
-    .P1 {
-        
-      font-size: 100%;
-       
-    }
-}
-@media screen and (max-width: 600px) {
-    .P1 {
-        
-      font-size: 75%;
-       
-    }
-}
-@media screen and (max-width: 400px) {
-    .P1 {
-        
-      font-size: 75%;
-       
-    }
-}
-
-@media screen and (max-width: 200px) {
-    .P1 {
-        
-      font-size: 75%;
-       
-    }
 }
 
 .Merge {
@@ -179,18 +60,14 @@ and open the template in the editor.
     width: 100%;
     height: 3%;  
     text-align: center;
-    padding-top: 2rem;
    
 }
 
 @media screen and (max-width: 992px) {
     .footer {
-        position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 3%;  
-    text-align: center;
-    
+        font-size: 60%;
+        height: 2%;
+        padding-top: 15px;
     }
 }
 
@@ -219,30 +96,9 @@ and open the template in the editor.
 
 .PayOffLine{
      font-family: FrontageCondensed;
-      font-size: 100%;
-     text-align: center;
-     padding-top: 3%;
+      font-size: 350%;
      
 }
-
-@media screen and (max-width: 992px) {
-    .PayOffLine {
-        font-size: 80%;   
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .PayOffLine {
-        font-size: 40%;   
-    }
-}
-
-@media screen and (max-width: 374px) {
-    .PayOffLine {
-        font-size: 35%;   
-    }
-}
-
 
 @font-face {
   font-family: KingthingsTrypewriter;
@@ -305,22 +161,6 @@ and open the template in the editor.
     box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
 }
 
-@media screen and (max-width: 800px) {
-    .button {
-        text-align: center;
-    cursor: pointer;
-    border-radius: 5em;
-    color: #fff;
-    background: #CFA144;
-    border: 0;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-bottom: 1%;
-    padding-top: 1%;
-    font-size: 175%;
-    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
-    }
-}
 
 
 /* The Close Button */
