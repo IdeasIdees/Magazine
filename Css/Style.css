@@ -211,6 +211,24 @@ and open the template in the editor.
 
 }
 
+@media screen and (max-width: 400px) {
+   .column {
+  float: left;
+  width: 25%;
+  padding: 4px;
+
+}
+}
+
+@media screen and (max-width: 200px) {
+   .column {
+  float: left;
+  width: 25%;
+  padding: 2px;
+
+}
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
