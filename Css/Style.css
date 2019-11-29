@@ -215,7 +215,7 @@ and open the template in the editor.
    .column {
   float: left;
   width: 25%;
-  padding: 4px;
+  padding: 2px;
 
 }
 }
@@ -224,7 +224,7 @@ and open the template in the editor.
    .column {
   float: left;
   width: 25%;
-  padding: 2px;
+  padding: 1.5px;
 
 }
 }
